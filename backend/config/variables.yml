@@ -1,0 +1,10 @@
+# Restart the server after changing this file
+# Access these variables with YML_VAR['variable']
+
+# The Movie Database API
+tmdb_api_key_v3: 'f9c89c92a645ae712c2b6f070a6a8731'
+tmdb_api_key_v4: 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmOWM4OWM5MmE2NDVhZTcxMmMyYjZmMDcwYTZhODczMSIsInN1YiI6IjVmMTM3ZGVjMmFmYjI1MDAzMzNiZWU1NiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.ugyAuRqfBSe8n87keqtHIAdN5qCN8jOYg2y_tHzocE4'
+
+# Token expiration
+# 1440 minutes = 24 hours
+token_expiration: '1440'
